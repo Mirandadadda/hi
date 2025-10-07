@@ -4,12 +4,12 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Your Name - Portfolio</title>
+<title> Miranda - Portfolio</title>
 <link rel="stylesheet" href="styles.css">
 </head>
 <<body>
 <header>
-<h1> Miranda Title</h1>
+<h1> Miranda </h1>
 </header>
 <nav>
 </nav>
