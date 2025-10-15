@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Momonga's Fluffy Fan Page</title>
-    <!-- Load Tailwind CSS -->
+    <!-- Load Tailwind CSS for styling -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Configure Tailwind to use Inter font and soft colors -->
     <script>
@@ -112,5 +112,6 @@
 
 </body>
 </html>
+
 
 
