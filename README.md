@@ -39,7 +39,7 @@
         }
     </style>
 </head>
-<body class="bg-momonga-bg min-h-screen p-4 sm:p-8 font-sans text-momonga-text">
+    <body class="bg-momonga-bg min-h-screen p-4 sm:p-8 font-sans text-momonga-text">
 
     <!-- Header & Title -->
     <header class="text-center mb-12">
