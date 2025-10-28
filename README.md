@@ -27,7 +27,7 @@
     </script>
 
     <style>
-      /* Estilos suaves e "fluffy" */
+      /* Soft and fluffy styles */
       .card-shadow {
         box-shadow: 0 10px 15px -3px rgba(255, 105, 180, 0.1),
                     0 4px 6px -2px rgba(255, 105, 180, 0.05);
@@ -119,3 +119,4 @@
     </footer>
   </body>
 </html>
+
