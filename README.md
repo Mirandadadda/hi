@@ -60,6 +60,14 @@
 
     <!-- Main Content -->
     <main class="max-w-4xl mx-auto grid grid-cols-1 gap-8 px-4 pb-16">
+      <!-- Photo Section -->
+      <section aria-labelledby="photo-title">
+        <div class="bg-white p-6 sm:p-8 rounded-3xl card-shadow text-center">
+          <h2 id="photo-title" class="text-3xl font-bold text-momonga-accent mb-4 border-b-2 border-momonga-pink pb-2">Momonga Image</h2>
+          <img src="file:///C:/Users/ASUS/Downloads/Miranda/Chi.jpg.webp" alt="Momonga Image" width="500" height="600" class="mx-auto rounded-3xl border-4 border-momonga-pink">
+        </div>
+      </section>
+
       <!-- Introduction Section -->
       <!-- Image Section -->
       <section aria-labelledby="photo-title">
@@ -88,19 +96,16 @@
           </h2>
           <ol class="space-y-4 text-lg list-decimal pl-6">
             <li class="p-3 bg-momonga-bg rounded-xl shadow-inner">
-              Ele tem um bumbum surpreendentemente forte e elástico. Em um quadrinho, ele fica preso em uma árvore e os amigos usam sua parte de trás como estilingue para soltá-lo.
+              He has a surprisingly strong and stretchy butt. In one comic, he gets stuck in a tree and his friends use his elastic rear end like a slingshot to free him.</li>
+            <li class="p-3 bg-momonga-bg rounded-xl shadow-inner">
+              His full name is "Momonji," a pun based on the word *momo* meaning both peach and thigh, but everyone simply calls him Momonga.<em>momo</em> (pêssego) e <em>momo</em> (coxa), mas todos o chamam de Momonga.
             </li>
             <li class="p-3 bg-momonga-bg rounded-xl shadow-inner">
-              Seu nome completo é "Momonji", um trocadilho com <em>momo</em> (pêssego) e <em>momo</em> (coxa), mas todos o chamam de Momonga.
-            </li>
+              He has a habit of dramatically melting into a puddle of despair when he becomes overly scared or embarrassed.</li>
             <li class="p-3 bg-momonga-bg rounded-xl shadow-inner">
-              Ele tem o hábito de derreter dramaticamente em uma poça de desespero quando fica muito assustado ou envergonhado.
-            </li>
+              Despite being shy, he is a surprisingly talented artist and can often be seen drawing detailed illustrations in his sketchbook.</li>
             <li class="p-3 bg-momonga-bg rounded-xl shadow-inner">
-              Apesar de tímido, é um artista surpreendentemente talentoso e costuma desenhar figuras detalhadas em seu caderno.
-            </li>
-            <li class="p-3 bg-momonga-bg rounded-xl shadow-inner">
-              Suas bochechas rosas não são apenas enfeite; são descritas como cor de pêssego, o que remete ao elemento <em>momo</em> do nome.
+              His pink cheeks are not just decoration. They are specifically described as peach-colored, which connects back to the *momo* part of his name.<em>momo</em> do nome.
             </li>
           </ol>
         </div>
@@ -113,8 +118,7 @@
             More About Momonga
           </h2>
           <p class="text-xl italic leading-snug">
-            Sua ansiedade, embora muito humana, somada ao coração gentil, o torna um personagem extremamente cativante. Dá vontade de protegê-lo, e cada pequena vitória dele parece uma conquista nossa.
-          </p>
+            His relatable anxiety and gentle heart make him an incredibly endearing character. You cannot help but want to protect him, and every small victory he achieves feels like a win for all of us.</p>
         </div>
       </section>
     </main>
