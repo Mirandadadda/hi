@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="pt">
+<html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -69,10 +69,6 @@
       </section>
 
       <!-- Introduction Section -->
-      <!-- Introduction Section -->to w-[500px]">
-        </div>
-      </section>
-
       <!-- Introduction Section -->
       <section aria-labelledby="intro-title">
         <div class="bg-white p-6 sm:p-8 rounded-3xl card-shadow">
@@ -93,15 +89,13 @@
           <ol class="space-y-4 text-lg list-decimal pl-6">
             <li class="p-3 bg-momonga-bg rounded-xl shadow-inner">
               He has a surprisingly strong and stretchy butt. In one comic, he gets stuck in a tree and his friends use his elastic rear end like a slingshot to free him.</li>
-            <li class="p-3 bg-momonga-bg rounded-xl shadow-inner">
-              His full name is "Momonji," a pun based on the word *momo* meaning both peach and thigh, but everyone simply calls him Momonga.<em>momo</em> (pêssego) e <em>momo</em> (coxa), mas todos o chamam de Momonga.
+            <li class="p-3 bg-momonga-bg rounded-xl shadow-inner">His full name is \"Momonji,\" a pun based on the word *momo* meaning both peach and thigh, but everyone simply calls him Momonga.</li>
             </li>
             <li class="p-3 bg-momonga-bg rounded-xl shadow-inner">
               He has a habit of dramatically melting into a puddle of despair when he becomes overly scared or embarrassed.</li>
             <li class="p-3 bg-momonga-bg rounded-xl shadow-inner">
               Despite being shy, he is a surprisingly talented artist and can often be seen drawing detailed illustrations in his sketchbook.</li>
-            <li class="p-3 bg-momonga-bg rounded-xl shadow-inner">
-              His pink cheeks are not just decoration. They are specifically described as peach-colored, which connects back to the *momo* part of his name.<em>momo</em> do nome.
+            <li class="p-3 bg-momonga-bg rounded-xl shadow-inner">His pink cheeks are not just decoration. They are specifically described as peach-colored, which connects back to the *momo* part of his name.</li>
             </li>
           </ol>
         </div>
@@ -121,7 +115,7 @@
 
     <!-- Footer -->
     <footer class="mt-8 pb-10 text-center text-gray-400 text-sm">
-      <p>© 2024 Momonga Fan Page. Os direitos do personagem pertencem a Nagano/Chiikawa.</p>
+      <p>© 2024 Momonga Fan Page. Character rights belong to Nagano / Chiikawa.</p>
     </footer>
   </body>
 </html>
