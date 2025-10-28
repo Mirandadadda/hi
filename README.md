@@ -64,16 +64,12 @@
       <section aria-labelledby="photo-title">
         <div class="bg-white p-6 sm:p-8 rounded-3xl card-shadow text-center">
           <h2 id="photo-title" class="text-3xl font-bold text-momonga-accent mb-4 border-b-2 border-momonga-pink pb-2">Momonga Image</h2>
-          <img src="file:///C:/Users/ASUS/Downloads/Miranda/Chi.jpg.webp" alt="Momonga Image" width="500" height="600" class="mx-auto rounded-3xl border-4 border-momonga-pink">
+          <img src="Chi.jpg.webp" alt="Momonga Image" class="mx-auto rounded-3xl border-4 border-momonga-pink max-w-full h-auto w-[500px]">
         </div>
       </section>
 
       <!-- Introduction Section -->
-      <!-- Image Section -->
-      <section aria-labelledby="photo-title">
-        <div class="bg-white p-6 sm:p-8 rounded-3xl card-shadow text-center">
-          <h2 id="photo-title" class="text-3xl font-bold text-momonga-accent mb-4 border-b-2 border-momonga-pink pb-2">Imagem</h2>
-          <img src="file:///C:/Users/ASUS/Downloads/Miranda/Chi.jpg.webp" alt="Momonga Image" width="500" height="600" class="mx-auto rounded-3xl border-4 border-momonga-pink">
+      <!-- Introduction Section -->to w-[500px]">
         </div>
       </section>
 
